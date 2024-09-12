@@ -1,4 +1,4 @@
-
+## Author: Roman Laddach
 # A script to perform functional analysis on the list of DEGs. Genes are for human after conversion from rat.
 
 # Set up environment 
