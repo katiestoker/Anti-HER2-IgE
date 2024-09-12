@@ -1,3 +1,4 @@
+## Author: Katie Stoker 
 
 # A script to create heatmaps to compare the pathways of interest in PBS vs treated rats. 
 # Substitute each pathway of interest into this code.  
