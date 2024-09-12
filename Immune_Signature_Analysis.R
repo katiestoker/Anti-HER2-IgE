@@ -1,3 +1,4 @@
+## Author: Katie Stoker
 # A script to investigate immune cell enrichment in treated/non-treated rats.
 
 # Set-up environment 
